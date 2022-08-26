@@ -8,7 +8,7 @@ const compression = require('compression');
 
 const app = express();
 const route = express.Router();
-const port = 3400;
+const port = 8080;
 
 // app.use(
 //   cors({
